@@ -1,0 +1,7 @@
+PRGNAM="awesome"
+VERSION="3.1.2"
+HOMEPAGE="http://awesome.naquadah.org"
+DOWNLOAD="http://awesome.naquadah.org/download/awesome-3.1.2.tar.bz2"
+MD5SUM="01ad5a4e4919b664bfe3f0c627ed291f"
+MAINTAINER="João Felipe Santos"
+EMAIL="joao.eel@gmail.com"

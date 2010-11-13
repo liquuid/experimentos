@@ -1,0 +1,9 @@
+awesome is a floating and tiling window manager initially based on a
+rewrite of the dwm window manager.  It is extremely fast, small,
+dynamic, and awesome. The version 3.x is incompatible with 2.x
+configuration files.
+
+awesome requires Imlib2 and Lua, available at SlackBuilds.org,
+and also requires Cairo compiled with the flag --enable-xcb.
+You can easily retrieve the original SlackBuild from a Slackware 
+repository and recompile it yourself.

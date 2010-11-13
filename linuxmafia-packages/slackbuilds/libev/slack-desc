@@ -1,0 +1,20 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|' on
+# the right side marks the last column you can put a character in.  You must make
+# exactly 11 lines for the formatting to be correct.  It's also customary to
+# leave one space after the ':'.
+
+      |-----handy-ruler------------------------------------------------------|
+libev: libev (A high-performance event loop/event model with lots of features) 
+libev: 
+libev: libev is a high-performance event loop/event model with lots of 
+libev: features. It is modeled (very loosely) after libevent and the Event
+libev: perl module, but is faster, scales better and is more correct, and also
+libev: more featureful. And also smaller. Yay.
+libev: 
+libev: Homepage: http://software.schmorp.de/pkg/libev.html
+libev:
+libev:
+libev:
+libev:

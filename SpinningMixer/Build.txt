@@ -1,0 +1,9 @@
+Put this directory on apps/example/ inside openframework 0.6 folder.
+
+cd of_preRelease_v0.06_linux_cb/apps/examples/SpinningMixer/
+
+make #  to build
+
+cd bin 
+
+./clickToLaunchApp_Debug.sh 

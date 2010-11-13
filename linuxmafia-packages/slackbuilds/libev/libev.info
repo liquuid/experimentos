@@ -1,0 +1,7 @@
+PRGNAM="libev"
+VERSION="3.52"
+HOMEPAGE="http://software.schmorp.de/pkg/libev.html"
+DOWNLOAD="http://dist.schmorp.de/libev/libev-3.52.tar.gz"
+MD5SUM="5bdabddcd63680b31cff97aa668e5b03"
+MAINTAINER="João Felipe Santos"
+EMAIL="joao.eel[at]gmail.com"

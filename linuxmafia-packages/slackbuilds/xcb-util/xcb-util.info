@@ -1,0 +1,7 @@
+PRGNAM="xcb-util"
+VERSION="0.3.3"
+HOMEPAGE="http://xcb.freedesktop.org/XcbUtil"
+DOWNLOAD="http://xcb.freedesktop.org/dist/xcb-util-0.3.3.tar.gz"
+MD5SUM="946bab0980a505958f77d883718c5203"
+MAINTAINER="João Felipe Santos"
+EMAIL="joao.eel[at]gmail.com"

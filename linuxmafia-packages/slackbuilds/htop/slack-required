@@ -1,0 +1,4 @@
+# Dependency list to htop
+#
+# dependency [condition] [version]]
+ncurses				
